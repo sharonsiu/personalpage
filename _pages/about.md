@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi dear!**Welcome to my site.** I'm Sharon.
+Hi dear! **Welcome to my site.** I'm Sharon.
 
 
 My story
