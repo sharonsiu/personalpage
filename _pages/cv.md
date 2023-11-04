@@ -11,24 +11,21 @@ redirect_from:
 
 Education
 ======
-* M.S. in Electronic Information Engineering, City University of Hong Kong, 2022 - 2024 (expected)
-* B.S. in Electronic & Comm Engineering, City University of Hong Kong, 2018 - 2022
+* M.S. in Electronic Information Engineering, City University of Hong Kong
+* B.S. in Electronic & Comm Engineering, City University of Hong Kong
 
 
 Work experience
 ======
 * Assistant engineer at City University of Hong Kong
-  * 08/2023 - Now
   * 
   * 
 
 * Centre for Intelligent Multidimensional Data Analysis (CIMDA) intern
-  * 06/2021 - 08/2021 (2 months)
   * An industrial project used for monitoring power usage
   * Connected the Power Quality Meter to Amazon AWS IoT through Raspberry Pi 4 gateway
 
 * Brilliant Education part time STEM tutor
-  * 09/2018 - 09/2020 (2 years)
   * Educated younger generation the knowledge of science and mathematics to cultivate their interest in STEM subjects
   * Communicated students' study progress to parents effectively
   
