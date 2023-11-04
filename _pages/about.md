@@ -28,3 +28,20 @@ University is the place where Sharon turned herself into a big girl. There is a 
 Now
 ------
 Fast forward, she is almost at the end of her study journey, which leaves her last few credits in her program. She has been taking electronics-related courses and developing projects for the past few years. She knew that her engineering journey wasn't just that, and there was so much more waiting for her. Books are just knowledge. To make the knowledge become practical, real-life projects have to come along. She is now looking for an opportunity to take a professional path.
+
+
+Saying
+======
+The top 3 sayings help her to get what she is today.
+
+No. 1
+------
+People like you don't happen often. Never forget how rare you are. ---  R.H. Sin
+
+No. 2
+------
+Use your energy to believe, to create, to learn, to think, and to grow. --- Prof. Feynman
+
+No. 3
+------
+Expect a little from people. Expect a lot from yourself.
