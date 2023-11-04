@@ -25,7 +25,7 @@ Soon, she got into robotics after she found out there was a robotics club. She w
 
 University
 ------
-University is the place where Sharon turned herself into a big girl. There is a saying: there's always a rainbow after the storm. She had suffered from depression for more than two-thirds of her four-year time. Additionally, her academics didn't go so well in the first two years, which made her days go even harder. Things got a bit better in her junior year when she started to pick up her studies. She started to learn and appreciate things that had been taught in class. Even though she graduated, she was motivated to pursue more knowledge in her field, and she chose to take a master program right after her degree. At that time, she had taken care of her mental issues within a year or so and gradually overcame the 'beast' inside.
+University is the place where Sharon turned herself into a big girl. There is a saying: there's always a rainbow after the storm. She had suffered from depression for more than two-thirds of her four-year time at university. Additionally, her academics didn't go so well in the first two years, which made her days go even harder. Things got a bit better in her junior year when she started to pick up her studies. She started to learn and appreciate things that had been taught in class. Even though she graduated, she was motivated to pursue more knowledge in her field, and she chose to take a master program right after her degree. At that time, she had taken care of her mental issues for a year or so and gradually overcame the 'beast' inside.
 
 Master and Now
 ------
