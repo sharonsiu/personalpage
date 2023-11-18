@@ -1,5 +1,5 @@
 ---
-title: "Smart supermarket trolley project"
+title: "Smart supermarket trolley"
 collection: projects
 permalink: /projects/2021-smart-supermarket
 duration: Jan 2021 - Apr 2021
@@ -20,6 +20,6 @@ Software:
   - data upload and download: ThingSpeak
   - program microcontroller: Arduino IDE
 
-
+<br>
 ![Circuit board](../images/projects_2021-smart-supermarket.png)
   
