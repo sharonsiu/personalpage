@@ -19,5 +19,5 @@ Software:
   - program microcontroller: Arduino IDE
 
 
-![Circuit board](images/projects_2021-smart-supermarket.png)
+![Circuit board](./images/projects_2021-smart-supermarket.png)
   
