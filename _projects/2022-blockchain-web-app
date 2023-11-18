@@ -16,6 +16,8 @@ Software:
   - coding: PyCharm IDE
   - API testing: Postman
 
+<br>
+Blockchain example:
 <pre>
 chain = "[\"{\\\"index\\\": 0, \\\"transactions\\\": [], \\\"timestamp\\\": \\\"04/08/22, 12:18:20\\\", \\\"previous_hash\\\": \\\"0\\\", \\\"hash\\\": \\\"851c1a6d32faaee7456095a88e00ba285c0ed75e513431c0aaf3a961672bc766\\\", \\\"nonce\\\": 0}\", 
 \"{\\\"index\\\": 1, \\\"transactions\\\": [\\\"{\\\\\\\"sender\\\\\\\": \\\\\\\"Interest\\\\\\\", \\\\\\\"recipient\\\\\\\": \\\\\\\"30819f300d06092a864886f70d010101050003818d0030818902818100aad3d322d97483c4d396d392101853097f28a6994da0a10d39a4160f3992b75273c0e96a06216c36c488bb1a845d7f2eabd0ccfad1279e608ba0fee44e92c7cf73d1d4c0c7701e391b86697b5ba6d1d8b9b4cd497f8d4c3bd1434e9ef9cc330bd1f7c7def6f926680900ac9122d1be6cff68b4f3bbad9f8627e84c7fc223c22b0203010001\\\\\\\", \\\\\\\"value\\\\\\\": \\\\\\\"150.0\\\\\\\"}\\\"], \\\"timestamp\\\": \\\"04/08/22, 12:18:29\\\", \\\"previous_hash\\\": \\\"851c1a6d32faaee7456095a88e00ba285c0ed75e513431c0aaf3a961672bc766\\\", \\\"hash\\\": \\\"00be3a7b6093550d7fa053b2b27c2f83835b1e434b7d8ce3834f29be35abdf31\\\", \\\"nonce\\\": 664}\", 
