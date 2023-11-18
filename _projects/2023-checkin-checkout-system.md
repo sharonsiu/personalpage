@@ -2,14 +2,14 @@
 title: "Checkin & checkout system"
 collection: projects
 permalink: /projects/2023-checkin-checkout-system
-duration: Jan 2021 - Apr 2021
+duration: Oct 2023 - Now
 ---
 
 
 
 About the project:
   - individual project
-  - background: people borrow equipment in lab and person-in-charge keeps paper records
+  - background: people borrow equipment in the lab and person-in-charge keeps paper records
   - problems
     * difficult to search for records
     * borrower always forgets to return the equipment/ returns after due
@@ -25,5 +25,5 @@ Security:
   - basic authorization: .htaccess
 
 Outcome:
-  - also keep records in electronic vision in case missing the paper records
+  - also keep records in electronic vision in case the paper records are missing
   - email to remind borrower to return equipment
