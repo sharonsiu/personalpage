@@ -20,8 +20,8 @@ Software:
   - coding: Arduino IDE (libraries: Seeed Wio terminal library, Arduino keyboard library)
   - game coding: Unity 2D (library: GitHub Ardity)
 
-
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 56.25%; height: 0; overflow: hidden;">
+<br>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/gDT1td7hU-A" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen></iframe>
 </div>
 
