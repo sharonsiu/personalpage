@@ -5,6 +5,8 @@ permalink: /projects/2021-smart-supermarket
 duration: Jan 2021 - Apr 2021
 ---
 
+
+
 About the project:
   - group project, worked in three (me with two teammates)
   - in Year 3 sem B
