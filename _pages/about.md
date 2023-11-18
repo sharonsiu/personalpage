@@ -37,12 +37,12 @@ The top 3 sayings help her to get what she is today.
 
 No. 1
 ------
-People like you don't happen often. Never forget how rare you are. ---  R.H. Sin
+> People like you don't happen often. Never forget how rare you are. ---  R.H. Sin
 
 No. 2
 ------
-Use your energy to believe, to create, to learn, to think, and to grow. --- Prof. Feynman
+> Use your energy to believe, to create, to learn, to think, and to grow. --- Prof. Feynman
 
 No. 3
 ------
-Expect a little from people. Expect a lot from yourself.
+> Expect a little from people. Expect a lot from yourself.
