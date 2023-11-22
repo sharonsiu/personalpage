@@ -27,7 +27,7 @@ University is the place where Sharon turned herself into a big girl. There is a 
 
 Now
 ------
-Fast forward, she is almost at the end of her study journey, which leaves her last few credits in her program. She has been taking electronics-related courses and developing projects for the past few years. She knew that her engineering journey wasn't just that, and there was so much more waiting for her. Books are just knowledge. To make the knowledge become practical, real-life projects have to come along. She is now looking for an opportunity to take a professional path.
+Fast forward, she is almost at the end of her study journey, which leaves her last few credits in her program. She has been taking electronics-related courses and developing projects for the past few years. She knew that her engineering journey wasn't just that, and there was so much more waiting for her. Books are just knowledge. To make the knowledge become practical, real-life projects have to come along. She is now looking for an opportunity to take a professional path to become a chartered engineer.
 
 
 
