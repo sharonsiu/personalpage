@@ -35,12 +35,9 @@ layout: default
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
         {% endif %}
           
-          {% if page.collection == 'projects' %}
-            <p>{{ page.duration }}</p>
-          {% endif %}
           
         {% if page.collection == 'teaching' %}
-          <p> {{ post.institution }}, <i>{{ post.duration }}</i> </p>
+          <p> {{ post.institution }}</p>
         {% elsif page.venue and page.duration %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.duration }} </p>
         {% elsif page.duration %}
