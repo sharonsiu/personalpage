@@ -39,7 +39,7 @@ layout: default
         {% if page.collection == 'teaching' %}
           <p> {{ post.institution }}</p>
         {% elsif page.venue and page.duration %}
-          <p>Published in <i>{{ page.venue }}</i>, {{ page.duration }} </p>
+          <p>{{ post.institution }}, <i>{{ page.duration }}</i> </p>
         {% elsif page.duration %}
           <p>{{ page.duration }}</p>
         {% endif %}
