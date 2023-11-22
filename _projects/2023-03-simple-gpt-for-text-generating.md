@@ -33,4 +33,4 @@ Model detail:
     7. Perform softmax
     8. Generate output sequence by sampling from the distribution
    
-[Code link] (https://colab.research.google.com/drive/11BOZ3m-4XbmRWbAJcT6ro4szKV7xOlyC?usp=sharing)
+[Code link](https://colab.research.google.com/drive/11BOZ3m-4XbmRWbAJcT6ro4szKV7xOlyC?usp=sharing "GPT code")
