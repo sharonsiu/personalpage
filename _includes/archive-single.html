@@ -38,7 +38,7 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
     
-    {% if post.duration %}
+    {% if post.collection == 'project' %}
        <p> <i>{{ post.duration }}</i></p>
     {% endif %}
     
