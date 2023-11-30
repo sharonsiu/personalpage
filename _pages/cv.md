@@ -17,15 +17,15 @@ Education
 
 Working experience
 ======
-* Assistant engineer at City University of Hong Kong 
+* Assistant engineer
   * Develop numerous amounts of technical skills in hardware and software
   * To conduct projects and prepare teaching materials to enhance student's learning experience
 
-* Centre for Intelligent Multidimensional Data Analysis (CIMDA) intern
+* CIMDA intern
   * An industrial project used for monitoring power usage
   * Connected the Power Quality Meter to Amazon AWS IoT through Raspberry Pi 4 gateway
 
-* Brilliant Education part-time STEM tutor
+* STEM tutor
   * Educated the younger generation on the knowledge of science and mathematics to cultivate their interest in STEM subjects
   * Communicated students' study progress to parents effectively
 
@@ -51,8 +51,15 @@ Teaching
 
 Awards
 ======
+* [Final Year Project Competition 2022 Merit Prize and $800](https://www.ee.cityu.edu.hk/events/final_year_project_competition_2022)
+* [2nd runner-up in 2022 HK Tech Tigers Art Collection by creating graphics related to Fintech](https://www.bochk.com/dam/bochk/desktop/top/aboutus/notice/2022/20220725_Notice_TC.pdf)
 
 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Student Ambassador
+  * zoom sharing on CityU Virtual Info Day 2021
+  * Peer Assisted Learning using Supplemental Instruction (PALSI) scheme (EE2005)
+    
+* Volunteer
+  * one-year Servant Leadership Training Programme 2022 to organize workshops for underprivileged primary school students
