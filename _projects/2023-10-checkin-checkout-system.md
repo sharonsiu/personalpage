@@ -2,7 +2,7 @@
 title: "Checkin & Checkout system"
 collection: projects
 permalink: /projects/2023-checkin-checkout-system
-duration: Oct 2023 - Now
+duration: Oct 2023 - Nov 2023
 ---
 
 
