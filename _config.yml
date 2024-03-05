@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "SHARON SIU"
 title_separator          : "-"
 name                     : &name "Sharon Siu"
-description              : &description "lifetime engineer"
+description              : &description "lifetime developer"
 url                      : https://sharonsiu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sharonsiu/sharonsiu.github.io"
@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Sharon Siu"
   avatar           : "sharon's profile.jpg"
-  bio              : "👩‍💻👩‍🔧 Lifetime engineer "
+  bio              : "👩‍💻👩‍🔧 Lifetime developer"
   location         : "Hong Kong"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
