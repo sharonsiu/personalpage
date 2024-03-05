@@ -32,17 +32,18 @@ Fast forward, she is almost at the end of her study journey, which leaves her la
 
 Lessons that she learnt from work
 ======
+
 1
 ------
-Work smart, not hard.
+> Work smart, not hard.
 
 2
 ------
-Think one step more before taking action.
+> Think one step more before taking action.
 
 3
 ------
-Stay positive no matter what situation you are currently dealing with.
+> Stay positive no matter what situation you are currently dealing with.
 
 
 Saying
