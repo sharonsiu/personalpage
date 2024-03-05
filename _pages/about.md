@@ -38,7 +38,7 @@ Work smart, not hard.
 
 2
 ------
-Think one more step before taking action.
+Think one step more before taking action.
 
 3
 ------
