@@ -35,7 +35,7 @@ Lessons that she learnt from work
 
 1
 ------
-> Work smart and hard.
+> Work smart and work hard.
 
 2
 ------
